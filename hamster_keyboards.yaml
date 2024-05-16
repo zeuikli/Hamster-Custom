@@ -754,13 +754,13 @@ keyboards:
               loadingText: 仓输入法
           - action:
               character:
-                char: ，
+                char: 。
             width: available
-            label: ，
+            label: 。
             swipe:
               - action:
                   character:
-                    char: 。
+                    char: ，
                 display: true
                 processByRIME: false
                 direction: up
@@ -966,18 +966,6 @@ keyboards:
                 display: true
                 processByRIME: false
                 direction: down
-          - action:
-              character:
-                char: "-"
-            width: available
-            label: ㄦ
-            swipe:
-              - action:
-                  character:
-                    char: "-"
-                display: true
-                processByRIME: false
-                direction: up
       - keys:
           - action:
               character:
@@ -1507,33 +1495,29 @@ keyboards:
                 direction: up
       - keys:
           - action:
-              keyboardType: numericNineGrid
-            width:
-              portrait:
-                percentage: 0.1
-              landscape:
-                percentage: 0.13
-          - action:
               keyboardType: alphabetic
             width:
-              portrait:
-                percentage: 0.1
+              portrait: available
               landscape:
                 percentage: 0.13
-          - action: space
+          - action:
+              keyboardType: numericNineGrid
+            width:
+              portrait: available
+              landscape:
+                percentage: 0.13
+          - action:
+              keyboardType: emojis
             width: available
-            label:
-              text: 空格
-              loadingText: 仓输入法
           - action:
               character:
-                char: ，
+                char: 。
             width: available
-            label: ，
+            label: 。
             swipe:
               - action:
                   character:
-                    char: 。
+                    char: ，
                 display: true
                 processByRIME: false
                 direction: up
@@ -1543,10 +1527,26 @@ keyboards:
                 display: true
                 processByRIME: false
                 direction: down
+          - action: space
+            width: available
+            label:
+              text: 空格
+              loadingText: 仓输入法
+          - action:
+              character:
+                char: "-"
+            width: available
+            label: ㄦ
+            swipe:
+              - action:
+                  character:
+                    char: "-"
+                display: true
+                processByRIME: false
+                direction: up
           - action: backspace
             width:
-              portrait:
-                percentage: 0.13
+              portrait: available
               landscape:
                 percentage: 0.19
           - action: enter
