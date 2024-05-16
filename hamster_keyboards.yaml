@@ -1495,20 +1495,11 @@ keyboards:
                 direction: up
       - keys:
           - action:
-              keyboardType: alphabetic
-            width:
-              portrait: available
-              landscape:
-                percentage: 0.13
-          - action:
               keyboardType: numericNineGrid
             width:
               portrait: available
               landscape:
                 percentage: 0.13
-          - action:
-              keyboardType: emojis
-            width: available
           - action:
               character:
                 char: 。
