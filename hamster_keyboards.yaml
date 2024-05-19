@@ -196,9 +196,7 @@ keyboards:
                 processByRIME: false
                 direction: up
       - keys:
-          - action:
-              characterMargin:
-                char: q
+          - action: none
             width: available
           - action:
               character:
@@ -208,13 +206,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: q
+                    char: Q
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: Q
+                    char: q
                 display: true
                 processByRIME: false
                 direction: down
@@ -226,13 +224,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: w
+                    char: W
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: W
+                    char: w
                 display: true
                 processByRIME: false
                 direction: down
@@ -244,13 +242,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: e
+                    char: E
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: E
+                    char: e
                 display: true
                 processByRIME: false
                 direction: down
@@ -262,13 +260,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: r
+                    char: R
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: R
+                    char: r
                 display: true
                 processByRIME: false
                 direction: down
@@ -280,13 +278,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: t
+                    char: T
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: T
+                    char: t
                 display: true
                 processByRIME: false
                 direction: down
@@ -298,13 +296,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: y
+                    char: Y
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: Y
+                    char: y
                 display: true
                 processByRIME: false
                 direction: down
@@ -316,13 +314,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: u
+                    char: U
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: U
+                    char: u
                 display: true
                 processByRIME: false
                 direction: down
@@ -334,13 +332,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: i
+                    char: I
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: I
+                    char: i
                 display: true
                 processByRIME: false
                 direction: down
@@ -352,13 +350,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: o
+                    char: O
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: O
+                    char: o
                 display: true
                 processByRIME: false
                 direction: down
@@ -370,24 +368,20 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: p
+                    char: P
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: P
+                    char: p
                 display: true
                 processByRIME: false
                 direction: down
-          - action:
-              characterMargin:
-                char: p
+          - action: none
             width: available
       - keys:
-          - action:
-              characterMargin:
-                char: a
+          - action: none
             width: available
           - action:
               character:
@@ -397,13 +391,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: a
+                    char: A
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: A
+                    char: a
                 display: true
                 processByRIME: false
                 direction: down
@@ -433,13 +427,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: d
+                    char: D
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: D
+                    char: d
                 display: true
                 processByRIME: false
                 direction: down
@@ -451,13 +445,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: f
+                    char: F
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: F
+                    char: f
                 display: true
                 processByRIME: false
                 direction: down
@@ -469,13 +463,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: g
+                    char: G
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: G
+                    char: g
                 display: true
                 processByRIME: false
                 direction: down
@@ -487,13 +481,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: h
+                    char: H
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: H
+                    char: h
                 display: true
                 processByRIME: false
                 direction: down
@@ -505,13 +499,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: j
+                    char: J
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: J
+                    char: j
                 display: true
                 processByRIME: false
                 direction: down
@@ -523,13 +517,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: k
+                    char: K
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: K
+                    char: k
                 display: true
                 processByRIME: false
                 direction: down
@@ -541,13 +535,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: l
+                    char: L
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: L
+                    char: l
                 display: true
                 processByRIME: false
                 direction: down
@@ -563,9 +557,7 @@ keyboards:
                 display: true
                 processByRIME: false
                 direction: up
-          - action:
-              characterMargin:
-                char: ;
+          - action: none
             width: available
       - keys:
           - action:
@@ -576,13 +568,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: z
+                    char: Z
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: Z
+                    char: z
                 display: true
                 processByRIME: false
                 direction: down
@@ -594,13 +586,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: x
+                    char: X
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: X
+                    char: x
                 display: true
                 processByRIME: false
                 direction: down
@@ -612,13 +604,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: c
+                    char: C
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: C
+                    char: c
                 display: true
                 processByRIME: false
                 direction: down
@@ -630,13 +622,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: v
+                    char: V
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: V
+                    char: v
                 display: true
                 processByRIME: false
                 direction: down
@@ -648,13 +640,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: b
+                    char: B
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: B
+                    char: b
                 display: true
                 processByRIME: false
                 direction: down
@@ -666,13 +658,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: n
+                    char: N
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: N
+                    char: n
                 display: true
                 processByRIME: false
                 direction: down
@@ -684,13 +676,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: m
+                    char: M
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: M
+                    char: m
                 display: true
                 processByRIME: false
                 direction: down
@@ -975,13 +967,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: q
+                    char: Q
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: Q
+                    char: q
                 display: true
                 processByRIME: false
                 direction: down
@@ -993,13 +985,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: w
+                    char: W
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: W
+                    char: w
                 display: true
                 processByRIME: false
                 direction: down
@@ -1011,13 +1003,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: e
+                    char: E
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: E
+                    char: e
                 display: true
                 processByRIME: false
                 direction: down
@@ -1029,13 +1021,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: r
+                    char: R
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: R
+                    char: r
                 display: true
                 processByRIME: false
                 direction: down
@@ -1047,13 +1039,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: t
+                    char: T
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: T
+                    char: t
                 display: true
                 processByRIME: false
                 direction: down
@@ -1065,13 +1057,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: y
+                    char: Y
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: Y
+                    char: y
                 display: true
                 processByRIME: false
                 direction: down
@@ -1083,13 +1075,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: u
+                    char: U
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: U
+                    char: u
                 display: true
                 processByRIME: false
                 direction: down
@@ -1101,13 +1093,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: i
+                    char: I
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: I
+                    char: i
                 display: true
                 processByRIME: false
                 direction: down
@@ -1119,13 +1111,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: o
+                    char: O
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: O
+                    char: o
                 display: true
                 processByRIME: false
                 direction: down
@@ -1137,13 +1129,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: p
+                    char: P
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: P
+                    char: p
                 display: true
                 processByRIME: false
                 direction: down
@@ -1156,13 +1148,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: a
+                    char: A
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: A
+                    char: a
                 display: true
                 processByRIME: false
                 direction: down
@@ -1174,13 +1166,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: s
+                    char: S
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: S
+                    char: s
                 display: true
                 processByRIME: false
                 direction: down
@@ -1192,13 +1184,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: d
+                    char: D
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: D
+                    char: d
                 display: true
                 processByRIME: false
                 direction: down
@@ -1210,13 +1202,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: f
+                    char: F
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: F
+                    char: f
                 display: true
                 processByRIME: false
                 direction: down
@@ -1228,13 +1220,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: g
+                    char: G
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: G
+                    char: g
                 display: true
                 processByRIME: false
                 direction: down
@@ -1246,13 +1238,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: h
+                    char: H
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: H
+                    char: h
                 display: true
                 processByRIME: false
                 direction: down
@@ -1264,13 +1256,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: j
+                    char: J
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: J
+                    char: j
                 display: true
                 processByRIME: false
                 direction: down
@@ -1282,13 +1274,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: k
+                    char: K
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: K
+                    char: k
                 display: true
                 processByRIME: false
                 direction: down
@@ -1300,13 +1292,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: l
+                    char: L
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: L
+                    char: l
                 display: true
                 processByRIME: false
                 direction: down
@@ -1318,17 +1310,17 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: '"'
-                label: '"'
+                    char: ":"
+                label: ":"
                 display: true
-                processByRIME: true
+                processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: "'"
-                label: "'"
+                    char: '"'
+                label: '"'
                 display: true
-                processByRIME: true
+                processByRIME: false
                 direction: down
       - keys:
           - action:
@@ -1339,13 +1331,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: z
+                    char: Z
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: Z
+                    char: z
                 display: true
                 processByRIME: false
                 direction: down
@@ -1357,13 +1349,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: x
+                    char: X
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: X
+                    char: x
                 display: true
                 processByRIME: false
                 direction: down
@@ -1375,13 +1367,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: c
+                    char: C
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: C
+                    char: c
                 display: true
                 processByRIME: false
                 direction: down
@@ -1393,13 +1385,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: v
+                    char: V
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: V
+                    char: v
                 display: true
                 processByRIME: false
                 direction: down
@@ -1411,13 +1403,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: b
+                    char: B
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: B
+                    char: b
                 display: true
                 processByRIME: false
                 direction: down
@@ -1429,13 +1421,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: n
+                    char: N
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: N
+                    char: n
                 display: true
                 processByRIME: false
                 direction: down
@@ -1447,13 +1439,13 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: m
+                    char: M
                 display: true
                 processByRIME: false
                 direction: up
               - action:
                   character:
-                    char: M
+                    char: m
                 display: true
                 processByRIME: false
                 direction: down
@@ -1465,7 +1457,8 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: ","
+                    char: <
+                label: <
                 display: true
                 processByRIME: false
                 direction: up
@@ -1477,7 +1470,8 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: .
+                    char: ">"
+                label: ">"
                 display: true
                 processByRIME: false
                 direction: up
@@ -1489,44 +1483,88 @@ keyboards:
             swipe:
               - action:
                   character:
-                    char: "?"
+                    char: ？
+                label: ？
                 display: true
                 processByRIME: false
                 direction: up
+              - action:
+                  character:
+                    char: /
+                label: /
+                display: true
+                processByRIME: false
+                direction: down
       - keys:
           - action:
               keyboardType: numericNineGrid
             width:
-              portrait: available
+              portrait:
+                percentage: 0.15
               landscape:
                 percentage: 0.13
           - action:
               character:
-                char: 。
-            width: available
-            label: 。
-            swipe:
+                char: ，
+            width:
+              portrait:
+                percentage: 0.1
+              landscape: available
+            label: ，
+            callout:
               - action:
                   character:
-                    char: ，
-                display: true
-                processByRIME: false
-                direction: up
+                    char: 。
+                label: 。
               - action:
                   character:
-                    char: "~"
-                display: true
-                processByRIME: false
-                direction: down
+                    char: ...
+                label: ...
+              - action:
+                  character:
+                    char: ～
+                label: ～
+              - action:
+                  character:
+                    char: 「」
+                label: 「」
           - action: space
             width: available
             label:
               text: 空格
               loadingText: 仓输入法
+            swipe:
+              - action:
+                  shortcutCommand: "#行首"
+                label: Home
+                display: true
+                processByRIME: false
+                direction: up
+              - action:
+                  shortcutCommand: "#行尾"
+                label: End
+                display: true
+                processByRIME: false
+                direction: down
+              - action:
+                  shortcutCommand: "#左移"
+                label: L
+                display: true
+                processByRIME: false
+                direction: left
+              - action:
+                  shortcutCommand: "#右移"
+                label: R
+                display: true
+                processByRIME: false
+                direction: right
           - action:
               character:
                 char: "-"
-            width: available
+            width:
+              portrait:
+                percentage: 0.1
+              landscape: available
             label: ㄦ
             swipe:
               - action:
@@ -1537,11 +1575,15 @@ keyboards:
                 direction: up
           - action: backspace
             width:
-              portrait: available
+              portrait:
+                percentage: 0.15
               landscape:
                 percentage: 0.19
           - action: enter
-            width: available
+            width:
+              portrait:
+                percentage: 0.15
+              landscape: available
     buttonInsets:
       left: 2
       bottom: 4
